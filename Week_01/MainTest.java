@@ -12,14 +12,14 @@ public class MainTest {
         // 解码
         //ByteService bs = new ByteService();
         //bs.decodeByteClass(
-        //    "/Users/antaifeng/training/JAVA-000/Week_01/Hello.xlass",
-        //    "/Users/antaifeng/training/JAVA-000/Week_01/Hello.class"
+        //    "/Users/xxx/training/JAVA-000/Week_01/Hello.xlass",
+        //    "/Users/xxx/training/JAVA-000/Week_01/Hello.class"
         //);
 
         // invoke helo
         CustomClassLoader loader = new CustomClassLoader();
         loader.call(
-            "/Users/antaifeng/training/JAVA-000/Week_01/",
+            "/Users/xxx/training/JAVA-000/Week_01/",
             "Hello",
             "hello"
         );
