@@ -7,8 +7,8 @@ import java.io.InputStream;
 import java.lang.reflect.Method;
 
 /**
- * @Author antaifeng
- * @Version @version $Id: CustomClassLoader, v0.1 2020-10-20 8:25 下午 antaifeng Exp $
+ * @Author qiujun
+ * @Version @version $Id: CustomClassLoader, v0.1 2020-10-20 8:25 下午 qiujun Exp $
  * @Description
  */
 public class CustomClassLoader extends ClassLoader {

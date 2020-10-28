@@ -7,8 +7,8 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 
 /**
- * @Author antaifeng
- * @Version @version $Id: ByteService, v0.1 2020-10-20 8:37 下午 antaifeng Exp $
+ * @Author qiujun
+ * @Version @version $Id: ByteService, v0.1 2020-10-20 8:37 下午 qiujun Exp $
  * @Description
  */
 public class ByteService {
