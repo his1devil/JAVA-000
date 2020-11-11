@@ -12,8 +12,8 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @Author antaifeng
- * @Version @version $Id: ThreadHomeWork, v0.1 2020-11-11 11:10 上午 antaifeng Exp $
+ * @Author qiujun
+ * @Version @version $Id: ThreadHomeWork, v0.1 2020-11-11 11:10 上午 qiujun Exp $
  * @Description
  */
 public class ThreadHomeWork {
